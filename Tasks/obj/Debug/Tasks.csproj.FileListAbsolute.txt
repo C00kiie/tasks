@@ -1,0 +1,8 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\Tasks\Tasks\bin\Debug\Tasks.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\Tasks\Tasks\bin\Debug\Tasks.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\Tasks\Tasks\bin\Debug\Tasks.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\Tasks\Tasks\obj\Debug\Tasks.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\Tasks\Tasks\obj\Debug\Tasks.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\Tasks\Tasks\obj\Debug\Tasks.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\Tasks\Tasks\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\Tasks\Tasks\bin\Debug\Newtonsoft.Json.xml
